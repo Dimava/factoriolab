@@ -153,6 +153,12 @@ export const data: AppData = {
       game: Game.OutworldStation,
       flags: 'fdy',
     },
+    {
+      id: 'imm',
+      name: 'Immortality Factory',
+      game: Game.ImmortalityFactory,
+      flags: 'imm',
+    },
   ],
   modHashV0: [
     '1.1',
@@ -230,5 +236,6 @@ export const data: AppData = {
     'mde',
     'fdy',
     'ows',
+    'imm',
   ],
 };

@@ -70,4 +70,10 @@ export const gameInfo: Record<Game, GameInfo> = {
     label: 'options.game.outworldStation',
     modId: 'ows',
   },
+  [Game.ImmortalityFactory]: {
+    icon: 'game-immortality-factory',
+    route: '/imm',
+    label: 'options.game.immortalityFactory',
+    modId: 'imm',
+  },
 };
